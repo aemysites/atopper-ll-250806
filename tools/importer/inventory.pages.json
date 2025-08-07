@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "'Product Listing Page'",
+      "name": "News Listing",
       "cluster": 1,
       "pages": [
         {
@@ -13,17 +13,17 @@
           "uuid": "3618ae533daf909c43776036b206f32575c87ce7"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud",
-          "uuid": "3dddb0ff6592c6a58315df5d88f8047641876fb7"
-        },
-        {
           "url": "https://lifelock.norton.com/learn/credit-finance",
           "uuid": "a22d8af251845ee8a985824fd453380358074dfc"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud",
+          "uuid": "3dddb0ff6592c6a58315df5d88f8047641876fb7"
         }
       ]
     },
     {
-      "name": "'Content Hub'",
+      "name": "E-commerce Product Listing",
       "cluster": 2,
       "pages": [
         {
@@ -39,14 +39,6 @@
           "uuid": "a37fdbae7fd8c464052e1057cb153e4c301c7e57"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-topics",
-          "uuid": "652e4147d3a3ab11a4307c7a9cb6f698d8b56e89"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-reports-topics",
-          "uuid": "de625c71fdd98a4133b3388007848476e45e12e8"
-        },
-        {
           "url": "https://lifelock.norton.com/learn/credit-finance/credit-card-topics",
           "uuid": "e7450461c99ba1ff9c11e8afcee6632e963ff2f7"
         },
@@ -55,12 +47,124 @@
           "uuid": "f5ab0054f3a7637f19039174358788609f01982b"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
-          "uuid": "aae1ce829ed739a2482db10664cfbd588434d0bd"
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-topics",
+          "uuid": "652e4147d3a3ab11a4307c7a9cb6f698d8b56e89"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-reports-topics",
+          "uuid": "de625c71fdd98a4133b3388007848476e45e12e8"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/protect-your-credit-card",
+          "uuid": "3b767e2e89fd47f38b0abcaea05f42cc144932e0"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
+          "uuid": "8f3c87224e6079f62ad5e93909e3762ed75614ef"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/auto-loan-credit-score",
+          "uuid": "a0a480f93341291e7a5c3e226789db698ceab23e"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fraud-alert-vs-credit-freeze",
+          "uuid": "87f24b44dd52ccf718f373d758880348ef98d531"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
+          "uuid": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-place-a-fraud-alert",
+          "uuid": "07f123a7f84076e70627fe8c67cbb1062e52d3b7"
         },
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/does-checking-your-credit-score-lower-it",
           "uuid": "79be3af7897756292f867f62f097fa7d89b901a1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-cvv-number",
+          "uuid": "5841492a2d83dba265d2775c36d18da93eefc6bf"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-unfreeze-credit",
+          "uuid": "cd850d575766f30d57be3f5291da8cd9da034682"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-buy-a-house-with-bad-credit",
+          "uuid": "55bfbd19bb007ebfbb54017d4767ca5184b43d5c"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-credit-report",
+          "uuid": "9ffac123e2f32d1178d8888feb4dd702ac6c14a0"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
+          "uuid": "aae1ce829ed739a2482db10664cfbd588434d0bd"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
+          "uuid": "7818297c5d1bad8e754b56b4c37c36737b151089"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-long-does-it-take-to-rebuild-credit",
+          "uuid": "ad68d0b7b1b7f5137920012a5fc4865c0e8a009e"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
+          "uuid": "0ed6b5319418282a83152feac3fc67fa65370f41"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fix-your-credit-score",
+          "uuid": "f161d975823a1b5c988b6f8c0507eef4a311bf59"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
+          "uuid": "31befdef22a61181259c19ac7243298ac343d264"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-to-do-if-you-lose-a-credit-card",
+          "uuid": "a3e1dce687d12e0bc5f5ffa80205334033f5644a"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
+          "uuid": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
+          "uuid": "1edb7b32adeed7f16af12c64765eca50154f2a6a"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
+          "uuid": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
+          "uuid": "0ab7277af695a17d27d57a2d2905def216294d8e"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/multiple-credit-cards",
+          "uuid": "c4a394c5024a4670b745a30477ba4a0d21d4becb"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
+          "uuid": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-credit-score-do-you-start-with",
+          "uuid": "acca3d6ec6fa766db0165faedf9fbfef149b52be"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/why-did-my-credit-score-drop",
+          "uuid": "3f2da98d1072507390e9ff4927cedda1f218d3cf"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
+          "uuid": "6e5b1536429658e00081327a7a59c9780281ec35"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-check-your-fico-score",
+          "uuid": "7709efb590ea44bd3f5d4b12b253c3618c3ed0a1"
         },
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/financial-scammer-new-tech",
@@ -71,173 +175,69 @@
           "uuid": "37b2e12eb3bdd60b60dfb50fc975d6ef06c5b80f"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-to-do-if-you-lose-a-credit-card",
-          "uuid": "a3e1dce687d12e0bc5f5ffa80205334033f5644a"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/multiple-credit-cards",
-          "uuid": "c4a394c5024a4670b745a30477ba4a0d21d4becb"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
-          "uuid": "00c54752842d091cc12b5b44cda266361f8367a6"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
-          "uuid": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/debit-cards-dangerous",
-          "uuid": "6089b3a086a8f19aa8110821de00d7e5377e78f5"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/protect-your-credit-card",
-          "uuid": "3b767e2e89fd47f38b0abcaea05f42cc144932e0"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-update",
-          "uuid": "fe94a649e3faa5db9e023153800aeaaa9ffb0fa2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
-          "uuid": "1edb7b32adeed7f16af12c64765eca50154f2a6a"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
-          "uuid": "6e5b1536429658e00081327a7a59c9780281ec35"
-        },
-        {
           "url": "https://lifelock.norton.com/learn/credit-finance/fico-score-vs-credit-score",
           "uuid": "1af1fb769f1540c66c11ef8c61b37e7868ef484e"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-credit-score-do-you-start-with",
-          "uuid": "acca3d6ec6fa766db0165faedf9fbfef149b52be"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fraud-alert-vs-credit-freeze",
-          "uuid": "87f24b44dd52ccf718f373d758880348ef98d531"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
-          "uuid": "7818297c5d1bad8e754b56b4c37c36737b151089"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/why-did-my-credit-score-drop",
-          "uuid": "3f2da98d1072507390e9ff4927cedda1f218d3cf"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
-          "uuid": "c98e8af5c3cda2eaadda50b31c7326df643da278"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
-          "uuid": "0ed6b5319418282a83152feac3fc67fa65370f41"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-many-credit-cards-should-you-have",
-          "uuid": "a2b3579d6857b1509ca21a00cbfab12164dc15fd"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-credit-report",
-          "uuid": "9ffac123e2f32d1178d8888feb4dd702ac6c14a0"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-check-your-fico-score",
-          "uuid": "7709efb590ea44bd3f5d4b12b253c3618c3ed0a1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/auto-loan-credit-score",
-          "uuid": "a0a480f93341291e7a5c3e226789db698ceab23e"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
-          "uuid": "8f3c87224e6079f62ad5e93909e3762ed75614ef"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-unfreeze-credit",
-          "uuid": "cd850d575766f30d57be3f5291da8cd9da034682"
         },
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/what-are-the-3-credit-bureaus",
           "uuid": "f4ff522adbbbbd0090b3b0acd94888e307a92413"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
-          "uuid": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286"
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-update",
+          "uuid": "fe94a649e3faa5db9e023153800aeaaa9ffb0fa2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-lock-credit",
-          "uuid": "bbc99de14b815ca679de5d81468c579bc39bc73b"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-long-does-it-take-to-rebuild-credit",
-          "uuid": "ad68d0b7b1b7f5137920012a5fc4865c0e8a009e"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
-          "uuid": "0ab7277af695a17d27d57a2d2905def216294d8e"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
-          "uuid": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
-          "uuid": "31befdef22a61181259c19ac7243298ac343d264"
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
+          "uuid": "c98e8af5c3cda2eaadda50b31c7326df643da278"
         },
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-vs-credit-report",
           "uuid": "54324e33b965ffe5a9a860c53237512d766fdc23"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-place-a-fraud-alert",
-          "uuid": "07f123a7f84076e70627fe8c67cbb1062e52d3b7"
+          "url": "https://lifelock.norton.com/learn/credit-finance/debit-cards-dangerous",
+          "uuid": "6089b3a086a8f19aa8110821de00d7e5377e78f5"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-scores",
-          "uuid": "1206ceed0eabfb069c95dd1249d7ff09bfbdba33"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fix-your-credit-score",
-          "uuid": "f161d975823a1b5c988b6f8c0507eef4a311bf59"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/home-equity-loan",
-          "uuid": "9553bdc6f6a4f40732d999f968b82f8788667874"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-cvv-number",
-          "uuid": "5841492a2d83dba265d2775c36d18da93eefc6bf"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-a-pre-approved-credit-card",
-          "uuid": "157eb1e266c5ba9870147793f05c582012ecdbdd"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-buy-a-house-with-bad-credit",
-          "uuid": "55bfbd19bb007ebfbb54017d4767ca5184b43d5c"
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
+          "uuid": "00c54752842d091cc12b5b44cda266361f8367a6"
         },
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
           "uuid": "0771042c089f1577a25ba98c84a975372d657960"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
-          "uuid": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844"
+          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
+          "uuid": "4f4b63ae9e80e64b6bd77a32900506515cdd539c"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-scores",
+          "uuid": "1206ceed0eabfb069c95dd1249d7ff09bfbdba33"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-lock-credit",
+          "uuid": "bbc99de14b815ca679de5d81468c579bc39bc73b"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-many-credit-cards-should-you-have",
+          "uuid": "a2b3579d6857b1509ca21a00cbfab12164dc15fd"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/home-equity-loan",
+          "uuid": "9553bdc6f6a4f40732d999f968b82f8788667874"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-a-pre-approved-credit-card",
+          "uuid": "157eb1e266c5ba9870147793f05c582012ecdbdd"
         },
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
           "uuid": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
-          "uuid": "4f4b63ae9e80e64b6bd77a32900506515cdd539c"
         }
       ]
     },
     {
-      "name": "'Dashboard Layout'",
+      "name": "'Corporate Dashboard Template'",
       "cluster": 3,
       "pages": [
         {
@@ -245,28 +245,24 @@
           "uuid": "4b6be7962b160b08009380b7d74d9676ee5741dd"
         },
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/att-data-breach-2024",
-          "uuid": "5f768c145f3658e6cfc4cd8cdc7903c79a0a293a"
-        },
-        {
           "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
           "uuid": "82d37c5caa8a820c72a471a43958619a06fb9f6a"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/national-public-data-breach",
-          "uuid": "5a480397afa7757911441aecff6ea8577c31791e"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/how-to-check-if-youre-affected-by-the-equifax-data-breach",
-          "uuid": "e8a5789f897af055597a2b98a0d44ab3840f1ed2"
         },
         {
           "url": "https://lifelock.norton.com/learn/data-breaches/what-is-a-data-breach",
           "uuid": "d1568efad8a43c14939366a1e1006531c7ab4793"
         },
         {
+          "url": "https://lifelock.norton.com/learn/data-breaches/att-data-breach-2024",
+          "uuid": "5f768c145f3658e6cfc4cd8cdc7903c79a0a293a"
+        },
+        {
           "url": "https://lifelock.norton.com/learn/data-breaches/microsoft-exposed-250-million-customer-records",
           "uuid": "8eb1519b5f3d859bda54d7537b1dd2b206bf55ff"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/national-public-data-breach",
+          "uuid": "5a480397afa7757911441aecff6ea8577c31791e"
         },
         {
           "url": "https://lifelock.norton.com/learn/data-breaches/history-of-data-breaches",
@@ -281,16 +277,20 @@
           "uuid": "8e9c60f4215d4277de3d9485b807b81761eccfdf"
         },
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/equifax-data-breach-2017",
-          "uuid": "4f5f0c66edf05b2a806701fb6d5749ec9fed4be7"
+          "url": "https://lifelock.norton.com/learn/data-breaches/how-to-check-if-youre-affected-by-the-equifax-data-breach",
+          "uuid": "e8a5789f897af055597a2b98a0d44ab3840f1ed2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/beware-of-equifax-breach-scams",
+          "uuid": "fd92fc5c8283d8a450c864324d78e18911d09a72"
         },
         {
           "url": "https://lifelock.norton.com/learn/data-breaches/unitedhealth-group-breach",
           "uuid": "94fa369882b3a58d3bf2b1ba348b274d28696593"
         },
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/beware-of-equifax-breach-scams",
-          "uuid": "fd92fc5c8283d8a450c864324d78e18911d09a72"
+          "url": "https://lifelock.norton.com/learn/data-breaches/equifax-data-breach-2017",
+          "uuid": "4f5f0c66edf05b2a806701fb6d5749ec9fed4be7"
         },
         {
           "url": "https://lifelock.norton.com/learn/data-breaches/chipotle-data-breach-what-you-need-to-know",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "name": "'Gallery Grid Page'",
+      "name": "Gallery Grid",
       "cluster": 4,
       "pages": [
         {
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "name": "'Corporate Dashboard'",
+      "name": "'Dashboard Template'",
       "cluster": 5,
       "pages": [
         {
@@ -341,8 +341,20 @@
           "uuid": "a15b74e22e1f1efd4fca8577b414112d6c965277"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
-          "uuid": "a91f084af190f3b9de81a6d23fd8925e5691e8b1"
+          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
+          "uuid": "1e287b79f009411a1abfc6bc5cd204b1e9850c32"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/employment-related-fraud",
+          "uuid": "bc1afb1b29b55cf44d3f9d819c485a930bd746ad"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
+          "uuid": "143d45bb162028233980d992504821af62a110ec"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/home-title-theft",
+          "uuid": "17ac6124c27d396d765a84aa8d5d415259bb3eed"
         },
         {
           "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
@@ -353,8 +365,24 @@
           "uuid": "4d5f65055a3e7035346693dd9bd334490b64fa02"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud/home-title-theft",
-          "uuid": "17ac6124c27d396d765a84aa8d5d415259bb3eed"
+          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
+          "uuid": "39fcf6048a7bd2005e9b232a402bab3813ffc621"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
+          "uuid": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
+          "uuid": "a91f084af190f3b9de81a6d23fd8925e5691e8b1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
+          "uuid": "caa4123ca0faa7314914be3341ec865706c40c09"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
+          "uuid": "73551c3f5ba5ef3842b87ab0a39ca143f8052217"
         },
         {
           "url": "https://lifelock.norton.com/learn/fraud/government-benefits",
@@ -377,56 +405,28 @@
           "uuid": "0184921019d9547856311e301f5ae517f64170ca"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
-          "uuid": "1e287b79f009411a1abfc6bc5cd204b1e9850c32"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
-          "uuid": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/employment-related-fraud",
-          "uuid": "bc1afb1b29b55cf44d3f9d819c485a930bd746ad"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/how-do-people-steal-credit-card-numbers",
-          "uuid": "a63d7575b72e510edfc065e55aaba69647a50425"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
-          "uuid": "39fcf6048a7bd2005e9b232a402bab3813ffc621"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
-          "uuid": "73551c3f5ba5ef3842b87ab0a39ca143f8052217"
+          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
+          "uuid": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa"
         },
         {
           "url": "https://lifelock.norton.com/learn/fraud/brushing-scam",
           "uuid": "b5a35fbcc5af0fb3be943cf3715e7ba0fc18aeba"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-marketplace-scams",
-          "uuid": "949a0e7a52878116b340a8a00733f4df88bce728"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
-          "uuid": "caa4123ca0faa7314914be3341ec865706c40c09"
-        },
-        {
           "url": "https://lifelock.norton.com/learn/fraud/bank-scams",
           "uuid": "0a706504543b704191af61f53527a69606b15794"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
-          "uuid": "143d45bb162028233980d992504821af62a110ec"
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-marketplace-scams",
+          "uuid": "949a0e7a52878116b340a8a00733f4df88bce728"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/how-do-people-steal-credit-card-numbers",
+          "uuid": "a63d7575b72e510edfc065e55aaba69647a50425"
         },
         {
           "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
           "uuid": "b00e2091e0850d0eef291948bb07c431af1a63b7"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
-          "uuid": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa"
         }
       ]
     }

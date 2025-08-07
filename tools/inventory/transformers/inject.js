@@ -19,4 +19,7 @@
 
   // Remove bottom identity theft sales pitch
   document.querySelectorAll('.c-stickybanner__container').forEach((el) => el.remove());
+
+  // Remove CPRA compliance spacer (messes with xpath to main)
+  document.querySelectorAll('.cpra-compliance-banner-spacer').forEach((el) => el.remove());
 })();

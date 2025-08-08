@@ -2466,584 +2466,11 @@
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 2,
-      "source": "Columns",
-      "target": "Columns (columns2)",
-      "key": "columns2",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-07-c352d6f0c494e6ef05a47640311dee133d47e6f9",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-16-6906fc5bc27a3a398abced4e86742282e5e1ded7",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[12]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-07-4d0f589a9c54e69e7961abaa4614511f4a598df3",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-17-7a855d6d1df1932f2f40bf0a8ca4784bf4b613df",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[12]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-07-4d0f589a9c54e69e7961abaa4614511f4a598df3",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 3,
-      "source": "Hero",
-      "target": "Hero (hero3)",
-      "key": "hero3",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
-          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
-          "uuid": "0771042c-10-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
-          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
-          "uuid": "0771042c-18-04c8bfac542cebdc63857f856d90cfabbaa53f99",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
-          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
-          "uuid": "0771042c-27-2482570e8653bc98918d0f43ffd4dbe3dddbe99c",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
-          "urlHash": "0ab7277af695a17d27d57a2d2905def216294d8e",
-          "uuid": "0ab7277a-12-1257b823f899e4819ed57d00bd6aa18a43b3450f",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[8]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
-          "urlHash": "0ab7277af695a17d27d57a2d2905def216294d8e",
-          "uuid": "0ab7277a-42-00630832434def284b11808b0701df3dfc977338",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[33]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
-          "urlHash": "0ed6b5319418282a83152feac3fc67fa65370f41",
-          "uuid": "0ed6b531-24-caf1ff63d025c2d942b0a111ba5d18e9ddccf1e8",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
-          "urlHash": "0ed6b5319418282a83152feac3fc67fa65370f41",
-          "uuid": "0ed6b531-44-24ac278a0b5e6973332f4731bff13662c3f9de4d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[33]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
-          "urlHash": "143d45bb162028233980d992504821af62a110ec",
-          "uuid": "143d45bb-09-bea42e6c57e30d399c3bd1a67c04e02df9b27be6",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
-          "urlHash": "143d45bb162028233980d992504821af62a110ec",
-          "uuid": "143d45bb-21-e4819d3a2d26716fe5011ded85663a9c5c15a42b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[15]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/home-title-theft",
-          "urlHash": "17ac6124c27d396d765a84aa8d5d415259bb3eed",
-          "uuid": "17ac6124-10-0e14c1e73034cfb4fb012522cb728cf7121b17a2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fico-score-vs-credit-score",
-          "urlHash": "1af1fb769f1540c66c11ef8c61b37e7868ef484e",
-          "uuid": "1af1fb76-26-2482570e8653bc98918d0f43ffd4dbe3dddbe99c",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
-          "urlHash": "1e287b79f009411a1abfc6bc5cd204b1e9850c32",
-          "uuid": "1e287b79-15-4c86687ff5c665eb13493e7228fa989ecce11f6e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[10]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
-          "urlHash": "1e287b79f009411a1abfc6bc5cd204b1e9850c32",
-          "uuid": "1e287b79-43-49f12170ae755360fa46fe5c0b001db0c9f3833b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[30]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
-          "urlHash": "1edb7b32adeed7f16af12c64765eca50154f2a6a",
-          "uuid": "1edb7b32-25-348296be1a4f0565e4f8ce1c509cd57d61bda292",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[17]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
-          "urlHash": "1edb7b32adeed7f16af12c64765eca50154f2a6a",
-          "uuid": "1edb7b32-41-79f665a592c6c220baad6db0bea87c143309c20a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[29]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
-          "urlHash": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51",
-          "uuid": "1ef161e8-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
-          "urlHash": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51",
-          "uuid": "1ef161e8-30-64c91e90d6af476b6951f125c33910018588545e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[22]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
-          "urlHash": "31befdef22a61181259c19ac7243298ac343d264",
-          "uuid": "31befdef-10-81e1650353853334624a7f71f2f56dd5c9d96c9f",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]/div[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
-          "urlHash": "31befdef22a61181259c19ac7243298ac343d264",
-          "uuid": "31befdef-51-2d4b61914de9207631c35a29a5c7378a675ca9a5",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[38]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
-          "urlHash": "39fcf6048a7bd2005e9b232a402bab3813ffc621",
-          "uuid": "39fcf604-26-b53e6981b31f680ee85a01f1f6b4322a0ddc9e0d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[19]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
-          "urlHash": "39fcf6048a7bd2005e9b232a402bab3813ffc621",
-          "uuid": "39fcf604-48-711fe35b01e1374838ec60357abcddc94b1f2628",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[36]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/why-did-my-credit-score-drop",
-          "urlHash": "3f2da98d1072507390e9ff4927cedda1f218d3cf",
-          "uuid": "3f2da98d-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/amazon-scams",
-          "urlHash": "4d5f65055a3e7035346693dd9bd334490b64fa02",
-          "uuid": "4d5f6505-11-447e7652d99811fa4984a4592accaf8ca286dac9",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]/div[2]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/amazon-scams",
-          "urlHash": "4d5f65055a3e7035346693dd9bd334490b64fa02",
-          "uuid": "4d5f6505-33-0c3f6118afb05c3811e962424d81871c99a9c330",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[20]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
-          "urlHash": "4f4b63ae9e80e64b6bd77a32900506515cdd539c",
-          "uuid": "4f4b63ae-15-65dcd7275e9a4084582cf05ad015f73e201600ef",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[9]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
-          "urlHash": "4f4b63ae9e80e64b6bd77a32900506515cdd539c",
-          "uuid": "4f4b63ae-33-cca76e6e3b1be79e62e54962d9a3a63571e4a8ec",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[25]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-vs-credit-report",
-          "urlHash": "54324e33b965ffe5a9a860c53237512d766fdc23",
-          "uuid": "54324e33-18-04c8bfac542cebdc63857f856d90cfabbaa53f99",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
-          "urlHash": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286",
-          "uuid": "54eca55b-20-3a39ec9ff86fc75a4c7af9fa7bb40380a58830a4",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[14]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
-          "urlHash": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286",
-          "uuid": "54eca55b-44-5a6d553134ae2c809e4109876035e1704e57d600",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[35]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
-          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
-          "uuid": "5674a51f-16-5df5816b0232dcf424f6609d8420acf62d4eddad",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[11]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
-          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
-          "uuid": "5674a51f-21-e4819d3a2d26716fe5011ded85663a9c5c15a42b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[15]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
-          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
-          "uuid": "5674a51f-26-3492e4f8eaabe5e3355820d867dda62813d381a6",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[19]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
-          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
-          "uuid": "5674a51f-32-1fed7526478742326e4a1e4869cd83bdec459f9a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[23]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
-          "urlHash": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df",
-          "uuid": "6544b1b9-09-bea42e6c57e30d399c3bd1a67c04e02df9b27be6",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
-          "urlHash": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df",
-          "uuid": "6544b1b9-14-65dcd7275e9a4084582cf05ad015f73e201600ef",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[9]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
-          "urlHash": "6e5b1536429658e00081327a7a59c9780281ec35",
-          "uuid": "6e5b1536-12-f868b2b62ed2b1dda5e454118375fd4494fe2fef",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
-          "urlHash": "6e5b1536429658e00081327a7a59c9780281ec35",
-          "uuid": "6e5b1536-24-52a17b82081013f5ac2a2fea7f0cafd073ebb761",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[16]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
-          "urlHash": "73551c3f5ba5ef3842b87ab0a39ca143f8052217",
-          "uuid": "73551c3f-16-4c86687ff5c665eb13493e7228fa989ecce11f6e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[10]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
-          "urlHash": "73551c3f5ba5ef3842b87ab0a39ca143f8052217",
-          "uuid": "73551c3f-54-78c2a75a8e274c90efbd4ac7f229e7ca8e091dfd",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[37]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
-          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
-          "uuid": "7527f858-08-2e0004d7f520c67ffaa57e3fa5c6dd61096a32e3",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[4]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
-          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
-          "uuid": "7527f858-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
-          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
-          "uuid": "7527f858-23-348296be1a4f0565e4f8ce1c509cd57d61bda292",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[17]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
-          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
-          "uuid": "7527f858-47-fd85be0f71f964c38f884f0ded03c3b4c46a7340",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[36]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
-          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
-          "uuid": "7527f858-87-dad7c77793e50871d44123be414408c4d69a7846",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[69]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
-          "urlHash": "7818297c5d1bad8e754b56b4c37c36737b151089",
-          "uuid": "7818297c-12-70ad29a0c5ce2495945d0ba4099480e66d79ffcc",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[8]/div[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
-          "urlHash": "7818297c5d1bad8e754b56b4c37c36737b151089",
-          "uuid": "7818297c-47-4f2e221744582af5758347e285b39f94c9fd3062",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[33]/div[2]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
-          "urlHash": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844",
-          "uuid": "7a7df69a-18-04c8bfac542cebdc63857f856d90cfabbaa53f99",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
-          "urlHash": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844",
-          "uuid": "7a7df69a-28-0c3f6118afb05c3811e962424d81871c99a9c330",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[20]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
-          "urlHash": "82d37c5caa8a820c72a471a43958619a06fb9f6a",
-          "uuid": "82d37c5c-08-3aa43c835ac0d88568450fac53df78b1a4261586",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[3]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
-          "urlHash": "82d37c5caa8a820c72a471a43958619a06fb9f6a",
-          "uuid": "82d37c5c-20-6dd7a7516e0b23007a5cdc9a2d19f2e3b797bcf0",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]/div[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fraud-alert-vs-credit-freeze",
-          "urlHash": "87f24b44dd52ccf718f373d758880348ef98d531",
-          "uuid": "87f24b44-17-5df5816b0232dcf424f6609d8420acf62d4eddad",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[11]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
-          "urlHash": "8f3c87224e6079f62ad5e93909e3762ed75614ef",
-          "uuid": "8f3c8722-13-c45c6081e511f4a89a84cd454407612b0efeb5a0",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]/div[2]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
-          "urlHash": "8f3c87224e6079f62ad5e93909e3762ed75614ef",
-          "uuid": "8f3c8722-32-ec1adf7365516470648658ed47103effaef8ede7",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[20]/div[2]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-to-do-if-you-lose-a-credit-card",
-          "urlHash": "a3e1dce687d12e0bc5f5ffa80205334033f5644a",
-          "uuid": "a3e1dce6-23-1f3775bc750bb730ef536d5a157f5b220659eff2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[17]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
-          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
-          "uuid": "a91f084a-37-49f12170ae755360fa46fe5c0b001db0c9f3833b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[30]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
-          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
-          "uuid": "a91f084a-73-3292fa193ecc1e84d7aadb295358fc1cff7027fa",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[63]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
-          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
-          "uuid": "a91f084a-79-8767abfb3da7c81404813fd4b633364d1a21cc0d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[67]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
-          "urlHash": "aae1ce829ed739a2482db10664cfbd588434d0bd",
-          "uuid": "aae1ce82-06-d79b44c6eacbbeae6da8db03b9b40663caad7260",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
-          "urlHash": "aae1ce829ed739a2482db10664cfbd588434d0bd",
-          "uuid": "aae1ce82-85-584b0529cfa507401dab39b0c7b0fdc05a07ff35",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[53]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-credit-score-do-you-start-with",
-          "urlHash": "acca3d6ec6fa766db0165faedf9fbfef149b52be",
-          "uuid": "acca3d6e-21-e4819d3a2d26716fe5011ded85663a9c5c15a42b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[15]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-long-does-it-take-to-rebuild-credit",
-          "urlHash": "ad68d0b7b1b7f5137920012a5fc4865c0e8a009e",
-          "uuid": "ad68d0b7-30-a7d609c1e2ac29799995e8fcb946736644bcb581",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[21]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
-          "urlHash": "b00e2091e0850d0eef291948bb07c431af1a63b7",
-          "uuid": "b00e2091-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
-          "urlHash": "b00e2091e0850d0eef291948bb07c431af1a63b7",
-          "uuid": "b00e2091-35-015c691630f14ddfd916830a04606eec86b937d5",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[26]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
-          "urlHash": "c98e8af5c3cda2eaadda50b31c7326df643da278",
-          "uuid": "c98e8af5-18-5df5816b0232dcf424f6609d8420acf62d4eddad",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[11]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
-          "urlHash": "c98e8af5c3cda2eaadda50b31c7326df643da278",
-          "uuid": "c98e8af5-32-1fed7526478742326e4a1e4869cd83bdec459f9a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[23]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
-          "urlHash": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec",
-          "uuid": "ca7b6d42-21-d8959f2e8088ed8da7b61ee7c3dcb40618e031a4",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[13]/div[2]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
-          "urlHash": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec",
-          "uuid": "ca7b6d42-61-ca271ea957137be82bf4c06f7a76fb02217b5fdd",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[39]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
-          "urlHash": "caa4123ca0faa7314914be3341ec865706c40c09",
-          "uuid": "caa4123c-13-65dcd7275e9a4084582cf05ad015f73e201600ef",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[9]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
-          "urlHash": "caa4123ca0faa7314914be3341ec865706c40c09",
-          "uuid": "caa4123c-35-b0ecb30cf28225b2946013550013182f8feb3018",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[27]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-unfreeze-credit",
-          "urlHash": "cd850d575766f30d57be3f5291da8cd9da034682",
-          "uuid": "cd850d57-27-2482570e8653bc98918d0f43ffd4dbe3dddbe99c",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
-          "urlHash": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc",
-          "uuid": "d3e09a7b-12-f868b2b62ed2b1dda5e454118375fd4494fe2fef",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
-          "urlHash": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc",
-          "uuid": "d3e09a7b-43-b760ee75e4b33968179fb33d9c66737b97794502",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[31]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Accordion",
-      "cluster": 4,
-      "source": "Accordion",
-      "target": "Accordion (accordion4)",
-      "key": "accordion4",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-25-6faf4d362f66973d53e52606e218f2d8087094a2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-27-eee4e0d33f6f6477a0aeda8f00d5d74b59277785",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[3]"
-        }
-      ]
-    },
-    {
       "name": "Cards",
-      "cluster": 5,
+      "cluster": 2,
       "source": "Cards",
-      "target": "Cards (cards5)",
-      "key": "cards5",
+      "target": "Cards (cards2)",
+      "key": "cards2",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
@@ -3570,104 +2997,524 @@
       ]
     },
     {
-      "name": "Cards",
-      "cluster": 6,
-      "source": "Cards",
-      "target": "Cards (cards6)",
-      "key": "cards6",
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches",
-          "urlHash": "3618ae533daf909c43776036b206f32575c87ce7",
-          "uuid": "3618ae53-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
+          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
+          "uuid": "0771042c-10-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/fraud/credit-card-topics",
-          "urlHash": "a15b74e22e1f1efd4fca8577b414112d6c965277",
-          "uuid": "a15b74e2-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
+          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
+          "uuid": "0771042c-18-04c8bfac542cebdc63857f856d90cfabbaa53f99",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-reports-topics",
-          "urlHash": "de625c71fdd98a4133b3388007848476e45e12e8",
-          "uuid": "de625c71-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
+          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
+          "uuid": "0771042c-27-2482570e8653bc98918d0f43ffd4dbe3dddbe99c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-card-topics",
-          "urlHash": "e7450461c99ba1ff9c11e8afcee6632e963ff2f7",
-          "uuid": "e7450461-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
+          "urlHash": "0ab7277af695a17d27d57a2d2905def216294d8e",
+          "uuid": "0ab7277a-12-1257b823f899e4819ed57d00bd6aa18a43b3450f",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[8]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/tips-topics",
-          "urlHash": "f5ab0054f3a7637f19039174358788609f01982b",
-          "uuid": "f5ab0054-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 7,
-      "source": "Columns",
-      "target": "Columns (columns7)",
-      "key": "columns7",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-26-8c053581e4d9cb863047ccf010f52981bfa58f06",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[21]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
+          "urlHash": "0ab7277af695a17d27d57a2d2905def216294d8e",
+          "uuid": "0ab7277a-42-00630832434def284b11808b0701df3dfc977338",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[33]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-36-81591a5e2977d8903476dedd75022627622f3d8b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[29]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
+          "urlHash": "0ed6b5319418282a83152feac3fc67fa65370f41",
+          "uuid": "0ed6b531-24-caf1ff63d025c2d942b0a111ba5d18e9ddccf1e8",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-28-8942ac88837b487d5edaa3b022425e86d16af487",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[21]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 8,
-      "source": "Columns",
-      "target": "Columns (columns8)",
-      "key": "columns8",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
-          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
-          "uuid": "4b6be796-09-12c02550a920df8d586820a06a299c5da2cf60a5",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
+          "urlHash": "0ed6b5319418282a83152feac3fc67fa65370f41",
+          "uuid": "0ed6b531-44-24ac278a0b5e6973332f4731bff13662c3f9de4d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[33]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
-          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
-          "uuid": "4b6be796-10-dcbedbcd26f6a6ca97a6c3347891a41c8d3487d8",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
+          "urlHash": "143d45bb162028233980d992504821af62a110ec",
+          "uuid": "143d45bb-09-bea42e6c57e30d399c3bd1a67c04e02df9b27be6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
-          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
-          "uuid": "4b6be796-11-0e1e3e88843602459bef7e03ded4f7062dfd2ed8",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
+          "urlHash": "143d45bb162028233980d992504821af62a110ec",
+          "uuid": "143d45bb-21-e4819d3a2d26716fe5011ded85663a9c5c15a42b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[15]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/home-title-theft",
+          "urlHash": "17ac6124c27d396d765a84aa8d5d415259bb3eed",
+          "uuid": "17ac6124-10-0e14c1e73034cfb4fb012522cb728cf7121b17a2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fico-score-vs-credit-score",
+          "urlHash": "1af1fb769f1540c66c11ef8c61b37e7868ef484e",
+          "uuid": "1af1fb76-26-2482570e8653bc98918d0f43ffd4dbe3dddbe99c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
+          "urlHash": "1e287b79f009411a1abfc6bc5cd204b1e9850c32",
+          "uuid": "1e287b79-15-4c86687ff5c665eb13493e7228fa989ecce11f6e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[10]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
+          "urlHash": "1e287b79f009411a1abfc6bc5cd204b1e9850c32",
+          "uuid": "1e287b79-43-49f12170ae755360fa46fe5c0b001db0c9f3833b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[30]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
+          "urlHash": "1edb7b32adeed7f16af12c64765eca50154f2a6a",
+          "uuid": "1edb7b32-25-348296be1a4f0565e4f8ce1c509cd57d61bda292",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[17]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
+          "urlHash": "1edb7b32adeed7f16af12c64765eca50154f2a6a",
+          "uuid": "1edb7b32-41-79f665a592c6c220baad6db0bea87c143309c20a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[29]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
+          "urlHash": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51",
+          "uuid": "1ef161e8-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
+          "urlHash": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51",
+          "uuid": "1ef161e8-30-64c91e90d6af476b6951f125c33910018588545e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[22]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
+          "urlHash": "31befdef22a61181259c19ac7243298ac343d264",
+          "uuid": "31befdef-10-81e1650353853334624a7f71f2f56dd5c9d96c9f",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
+          "urlHash": "31befdef22a61181259c19ac7243298ac343d264",
+          "uuid": "31befdef-51-2d4b61914de9207631c35a29a5c7378a675ca9a5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[38]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
+          "urlHash": "39fcf6048a7bd2005e9b232a402bab3813ffc621",
+          "uuid": "39fcf604-26-b53e6981b31f680ee85a01f1f6b4322a0ddc9e0d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[19]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
+          "urlHash": "39fcf6048a7bd2005e9b232a402bab3813ffc621",
+          "uuid": "39fcf604-48-711fe35b01e1374838ec60357abcddc94b1f2628",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[36]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/why-did-my-credit-score-drop",
+          "urlHash": "3f2da98d1072507390e9ff4927cedda1f218d3cf",
+          "uuid": "3f2da98d-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/amazon-scams",
+          "urlHash": "4d5f65055a3e7035346693dd9bd334490b64fa02",
+          "uuid": "4d5f6505-11-447e7652d99811fa4984a4592accaf8ca286dac9",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/amazon-scams",
+          "urlHash": "4d5f65055a3e7035346693dd9bd334490b64fa02",
+          "uuid": "4d5f6505-33-0c3f6118afb05c3811e962424d81871c99a9c330",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[20]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
+          "urlHash": "4f4b63ae9e80e64b6bd77a32900506515cdd539c",
+          "uuid": "4f4b63ae-15-65dcd7275e9a4084582cf05ad015f73e201600ef",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[9]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
+          "urlHash": "4f4b63ae9e80e64b6bd77a32900506515cdd539c",
+          "uuid": "4f4b63ae-33-cca76e6e3b1be79e62e54962d9a3a63571e4a8ec",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[25]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-vs-credit-report",
+          "urlHash": "54324e33b965ffe5a9a860c53237512d766fdc23",
+          "uuid": "54324e33-18-04c8bfac542cebdc63857f856d90cfabbaa53f99",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
+          "urlHash": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286",
+          "uuid": "54eca55b-20-3a39ec9ff86fc75a4c7af9fa7bb40380a58830a4",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[14]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
+          "urlHash": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286",
+          "uuid": "54eca55b-44-5a6d553134ae2c809e4109876035e1704e57d600",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[35]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
+          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
+          "uuid": "5674a51f-16-5df5816b0232dcf424f6609d8420acf62d4eddad",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[11]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
+          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
+          "uuid": "5674a51f-21-e4819d3a2d26716fe5011ded85663a9c5c15a42b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[15]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
+          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
+          "uuid": "5674a51f-26-3492e4f8eaabe5e3355820d867dda62813d381a6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[19]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
+          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
+          "uuid": "5674a51f-32-1fed7526478742326e4a1e4869cd83bdec459f9a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[23]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
+          "urlHash": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df",
+          "uuid": "6544b1b9-09-bea42e6c57e30d399c3bd1a67c04e02df9b27be6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
+          "urlHash": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df",
+          "uuid": "6544b1b9-14-65dcd7275e9a4084582cf05ad015f73e201600ef",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[9]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
+          "urlHash": "6e5b1536429658e00081327a7a59c9780281ec35",
+          "uuid": "6e5b1536-12-f868b2b62ed2b1dda5e454118375fd4494fe2fef",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
+          "urlHash": "6e5b1536429658e00081327a7a59c9780281ec35",
+          "uuid": "6e5b1536-24-52a17b82081013f5ac2a2fea7f0cafd073ebb761",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[16]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
+          "urlHash": "73551c3f5ba5ef3842b87ab0a39ca143f8052217",
+          "uuid": "73551c3f-16-4c86687ff5c665eb13493e7228fa989ecce11f6e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[10]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
+          "urlHash": "73551c3f5ba5ef3842b87ab0a39ca143f8052217",
+          "uuid": "73551c3f-54-78c2a75a8e274c90efbd4ac7f229e7ca8e091dfd",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[37]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
+          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
+          "uuid": "7527f858-08-2e0004d7f520c67ffaa57e3fa5c6dd61096a32e3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
+          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
+          "uuid": "7527f858-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
+          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
+          "uuid": "7527f858-23-348296be1a4f0565e4f8ce1c509cd57d61bda292",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[17]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
+          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
+          "uuid": "7527f858-47-fd85be0f71f964c38f884f0ded03c3b4c46a7340",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[36]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
+          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
+          "uuid": "7527f858-87-dad7c77793e50871d44123be414408c4d69a7846",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[69]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
+          "urlHash": "7818297c5d1bad8e754b56b4c37c36737b151089",
+          "uuid": "7818297c-12-70ad29a0c5ce2495945d0ba4099480e66d79ffcc",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[8]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
+          "urlHash": "7818297c5d1bad8e754b56b4c37c36737b151089",
+          "uuid": "7818297c-47-4f2e221744582af5758347e285b39f94c9fd3062",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[33]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
+          "urlHash": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844",
+          "uuid": "7a7df69a-18-04c8bfac542cebdc63857f856d90cfabbaa53f99",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
+          "urlHash": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844",
+          "uuid": "7a7df69a-28-0c3f6118afb05c3811e962424d81871c99a9c330",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[20]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
+          "urlHash": "82d37c5caa8a820c72a471a43958619a06fb9f6a",
+          "uuid": "82d37c5c-08-3aa43c835ac0d88568450fac53df78b1a4261586",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
+          "urlHash": "82d37c5caa8a820c72a471a43958619a06fb9f6a",
+          "uuid": "82d37c5c-20-6dd7a7516e0b23007a5cdc9a2d19f2e3b797bcf0",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[12]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fraud-alert-vs-credit-freeze",
+          "urlHash": "87f24b44dd52ccf718f373d758880348ef98d531",
+          "uuid": "87f24b44-17-5df5816b0232dcf424f6609d8420acf62d4eddad",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[11]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
+          "urlHash": "8f3c87224e6079f62ad5e93909e3762ed75614ef",
+          "uuid": "8f3c8722-13-c45c6081e511f4a89a84cd454407612b0efeb5a0",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
+          "urlHash": "8f3c87224e6079f62ad5e93909e3762ed75614ef",
+          "uuid": "8f3c8722-32-ec1adf7365516470648658ed47103effaef8ede7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[20]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-to-do-if-you-lose-a-credit-card",
+          "urlHash": "a3e1dce687d12e0bc5f5ffa80205334033f5644a",
+          "uuid": "a3e1dce6-23-1f3775bc750bb730ef536d5a157f5b220659eff2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[17]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
+          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
+          "uuid": "a91f084a-37-49f12170ae755360fa46fe5c0b001db0c9f3833b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[30]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
+          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
+          "uuid": "a91f084a-73-3292fa193ecc1e84d7aadb295358fc1cff7027fa",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[63]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
+          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
+          "uuid": "a91f084a-79-8767abfb3da7c81404813fd4b633364d1a21cc0d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[67]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
+          "urlHash": "aae1ce829ed739a2482db10664cfbd588434d0bd",
+          "uuid": "aae1ce82-06-d79b44c6eacbbeae6da8db03b9b40663caad7260",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
+          "urlHash": "aae1ce829ed739a2482db10664cfbd588434d0bd",
+          "uuid": "aae1ce82-85-584b0529cfa507401dab39b0c7b0fdc05a07ff35",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[53]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-credit-score-do-you-start-with",
+          "urlHash": "acca3d6ec6fa766db0165faedf9fbfef149b52be",
+          "uuid": "acca3d6e-21-e4819d3a2d26716fe5011ded85663a9c5c15a42b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[15]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-long-does-it-take-to-rebuild-credit",
+          "urlHash": "ad68d0b7b1b7f5137920012a5fc4865c0e8a009e",
+          "uuid": "ad68d0b7-30-a7d609c1e2ac29799995e8fcb946736644bcb581",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[21]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
+          "urlHash": "b00e2091e0850d0eef291948bb07c431af1a63b7",
+          "uuid": "b00e2091-11-eddecde8e053cf08ca73ccd9eae82a1a9bf5a04a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[6]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
+          "urlHash": "b00e2091e0850d0eef291948bb07c431af1a63b7",
+          "uuid": "b00e2091-35-015c691630f14ddfd916830a04606eec86b937d5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[26]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
+          "urlHash": "c98e8af5c3cda2eaadda50b31c7326df643da278",
+          "uuid": "c98e8af5-18-5df5816b0232dcf424f6609d8420acf62d4eddad",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[11]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
+          "urlHash": "c98e8af5c3cda2eaadda50b31c7326df643da278",
+          "uuid": "c98e8af5-32-1fed7526478742326e4a1e4869cd83bdec459f9a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[23]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
+          "urlHash": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec",
+          "uuid": "ca7b6d42-21-d8959f2e8088ed8da7b61ee7c3dcb40618e031a4",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[13]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
+          "urlHash": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec",
+          "uuid": "ca7b6d42-61-ca271ea957137be82bf4c06f7a76fb02217b5fdd",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[39]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
+          "urlHash": "caa4123ca0faa7314914be3341ec865706c40c09",
+          "uuid": "caa4123c-13-65dcd7275e9a4084582cf05ad015f73e201600ef",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[9]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
+          "urlHash": "caa4123ca0faa7314914be3341ec865706c40c09",
+          "uuid": "caa4123c-35-b0ecb30cf28225b2946013550013182f8feb3018",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[27]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-unfreeze-credit",
+          "urlHash": "cd850d575766f30d57be3f5291da8cd9da034682",
+          "uuid": "cd850d57-27-2482570e8653bc98918d0f43ffd4dbe3dddbe99c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[18]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
+          "urlHash": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc",
+          "uuid": "d3e09a7b-12-f868b2b62ed2b1dda5e454118375fd4494fe2fef",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
+          "urlHash": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc",
+          "uuid": "d3e09a7b-43-b760ee75e4b33968179fb33d9c66737b97794502",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[31]",
+          "section": "section-2"
         }
       ]
     },
     {
       "name": "Hero",
-      "cluster": 9,
+      "cluster": 4,
       "source": "Hero",
-      "target": "Hero (hero9)",
-      "key": "hero9",
+      "target": "Hero (hero4)",
+      "key": "hero4",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
@@ -3833,6 +3680,163 @@
       ]
     },
     {
+      "name": "Accordion",
+      "cluster": 5,
+      "source": "Accordion",
+      "target": "Accordion (accordion5)",
+      "key": "accordion5",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-25-6faf4d362f66973d53e52606e218f2d8087094a2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-27-eee4e0d33f6f6477a0aeda8f00d5d74b59277785",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-07-c352d6f0c494e6ef05a47640311dee133d47e6f9",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-16-6906fc5bc27a3a398abced4e86742282e5e1ded7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[12]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-07-4d0f589a9c54e69e7961abaa4614511f4a598df3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-17-7a855d6d1df1932f2f40bf0a8ca4784bf4b613df",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[12]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-07-4d0f589a9c54e69e7961abaa4614511f4a598df3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-18-e912dee38d5bf728f6fd90fd7644004ab044f69e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[14]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-19-e05c6617903d9573942919e2e301ada60b7b6e25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[14]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-29-b8134aca1a48a7ab5575989bd46f5461816baac2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[24]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-19-e05c6617903d9573942919e2e301ada60b7b6e25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[14]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
+          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
+          "uuid": "4b6be796-09-12c02550a920df8d586820a06a299c5da2cf60a5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
+          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
+          "uuid": "4b6be796-10-dcbedbcd26f6a6ca97a6c3347891a41c8d3487d8",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
+          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
+          "uuid": "4b6be796-11-0e1e3e88843602459bef7e03ded4f7062dfd2ed8",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-20-9eb62c68259c560cdbf5fae5d57d9b20f9f70c3d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[16]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-21-25d432296e2ca5f617411a3b617d30eb05de761e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[16]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-27-e1ac3fc835d79242d2bb8c22095f495849d5f935",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[22]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-21-25d432296e2ca5f617411a3b617d30eb05de761e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[16]"
+        }
+      ]
+    },
+    {
       "name": "Columns",
       "cluster": 10,
       "source": "Columns",
@@ -3861,39 +3865,18 @@
       "key": "columns11",
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/authors/jeremy-coppock",
-          "urlHash": "a860c3d9f0994790a23e668a0638149608040206",
-          "uuid": "a860c3d9-03-d846709872f5505d72872a9aa430a1d6ebe20593",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
+          "url": "https://lifelock.norton.com/learn/data-breaches/microsoft-exposed-250-million-customer-records",
+          "urlHash": "8eb1519b5f3d859bda54d7537b1dd2b206bf55ff",
+          "uuid": "8eb1519b-26-3623cf84327a7bb3f2d4dd0b3db7cbc5a29d273e",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[24]",
+          "section": "section-2"
         },
         {
-          "url": "https://lifelock.norton.com/learn/authors/mark-birchall",
-          "urlHash": "bd06dc0ab5111ff1752d9d2f253ecea46a4f2a75",
-          "uuid": "bd06dc0a-03-d846709872f5505d72872a9aa430a1d6ebe20593",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/crissy-joshua",
-          "urlHash": "cf4cbd9b51a1bb0496106e3481da632649dbb3f5",
-          "uuid": "cf4cbd9b-03-d846709872f5505d72872a9aa430a1d6ebe20593",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/ellie-farrier",
-          "urlHash": "fb6a73723545b96ebc2dd29c37b75f54c10f70ab",
-          "uuid": "fb6a7372-03-d846709872f5505d72872a9aa430a1d6ebe20593",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/oliver-buxton",
-          "urlHash": "fc3a18d21f756fd44db06d4726f4784f632b1deb",
-          "uuid": "fc3a18d2-03-d846709872f5505d72872a9aa430a1d6ebe20593",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
+          "url": "https://lifelock.norton.com/learn/data-breaches/beware-of-equifax-breach-scams",
+          "urlHash": "fd92fc5c8283d8a450c864324d78e18911d09a72",
+          "uuid": "fd92fc5c-12-f69cedefea1aa3ad892198dad340a6a54b0b6c1c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]",
+          "section": "section-2"
         }
       ]
     },
@@ -4327,6 +4310,45 @@
       "key": "cards13",
       "instances": [
         {
+          "url": "https://lifelock.norton.com/learn/data-breaches",
+          "urlHash": "3618ae533daf909c43776036b206f32575c87ce7",
+          "uuid": "3618ae53-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/credit-card-topics",
+          "urlHash": "a15b74e22e1f1efd4fca8577b414112d6c965277",
+          "uuid": "a15b74e2-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-reports-topics",
+          "urlHash": "de625c71fdd98a4133b3388007848476e45e12e8",
+          "uuid": "de625c71-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-card-topics",
+          "urlHash": "e7450461c99ba1ff9c11e8afcee6632e963ff2f7",
+          "uuid": "e7450461-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/tips-topics",
+          "urlHash": "f5ab0054f3a7637f19039174358788609f01982b",
+          "uuid": "f5ab0054-03-81eef3f5c140dc5c8ecd2f185e3283a591b9053d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
           "url": "https://lifelock.norton.com/learn/authors/mark-birchall",
           "urlHash": "bd06dc0ab5111ff1752d9d2f253ecea46a4f2a75",
           "uuid": "bd06dc0a-06-16a96926e770155bbd167938e5c1421b29c42eba",
@@ -4349,43 +4371,6 @@
           "urlHash": "fc3a18d21f756fd44db06d4726f4784f632b1deb",
           "uuid": "fc3a18d2-06-16a96926e770155bbd167938e5c1421b29c42eba",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 14,
-      "source": "Columns",
-      "target": "Columns (columns14)",
-      "key": "columns14",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-18-e912dee38d5bf728f6fd90fd7644004ab044f69e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[14]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-19-e05c6617903d9573942919e2e301ada60b7b6e25",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[14]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-29-b8134aca1a48a7ab5575989bd46f5461816baac2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[24]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-19-e05c6617903d9573942919e2e301ada60b7b6e25",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[14]",
-          "section": "section-1"
         }
       ]
     },
@@ -4435,11 +4420,8 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "unknown",
       "cluster": 16,
-      "source": "Cards",
-      "target": "Cards (cards16)",
-      "key": "cards16",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/fraud",
@@ -4456,11 +4438,590 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Tabs",
       "cluster": 17,
+      "source": "Tabs",
+      "target": "Tabs (tabs17)",
+      "key": "tabs17",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
+          "urlHash": "00c54752842d091cc12b5b44cda266361f8367a6",
+          "uuid": "00c54752-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/chase-check-fraud",
+          "urlHash": "0184921019d9547856311e301f5ae517f64170ca",
+          "uuid": "01849210-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
+          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
+          "uuid": "0771042c-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/history-of-data-breaches",
+          "urlHash": "0a4dec35c103de2e3531217d7ab0dd6e88efe41a",
+          "uuid": "0a4dec35-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/bank-scams",
+          "urlHash": "0a706504543b704191af61f53527a69606b15794",
+          "uuid": "0a706504-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
+          "urlHash": "0ab7277af695a17d27d57a2d2905def216294d8e",
+          "uuid": "0ab7277a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
+          "urlHash": "0ed6b5319418282a83152feac3fc67fa65370f41",
+          "uuid": "0ed6b531-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-scores",
+          "urlHash": "1206ceed0eabfb069c95dd1249d7ff09bfbdba33",
+          "uuid": "1206ceed-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
+          "urlHash": "143d45bb162028233980d992504821af62a110ec",
+          "uuid": "143d45bb-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-a-pre-approved-credit-card",
+          "urlHash": "157eb1e266c5ba9870147793f05c582012ecdbdd",
+          "uuid": "157eb1e2-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/home-title-theft",
+          "urlHash": "17ac6124c27d396d765a84aa8d5d415259bb3eed",
+          "uuid": "17ac6124-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fico-score-vs-credit-score",
+          "urlHash": "1af1fb769f1540c66c11ef8c61b37e7868ef484e",
+          "uuid": "1af1fb76-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/back-to-school-scams",
+          "urlHash": "1cd0ce4c0106f6f7a6e1e0513f22277da7694393",
+          "uuid": "1cd0ce4c-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
+          "urlHash": "1e287b79f009411a1abfc6bc5cd204b1e9850c32",
+          "uuid": "1e287b79-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
+          "urlHash": "1edb7b32adeed7f16af12c64765eca50154f2a6a",
+          "uuid": "1edb7b32-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
+          "urlHash": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51",
+          "uuid": "1ef161e8-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
+          "urlHash": "31befdef22a61181259c19ac7243298ac343d264",
+          "uuid": "31befdef-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches",
+          "urlHash": "3618ae533daf909c43776036b206f32575c87ce7",
+          "uuid": "3618ae53-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-rebuild-your-credit-after-identity-theft",
+          "urlHash": "37b2e12eb3bdd60b60dfb50fc975d6ef06c5b80f",
+          "uuid": "37b2e12e-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
+          "urlHash": "39fcf6048a7bd2005e9b232a402bab3813ffc621",
+          "uuid": "39fcf604-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/protect-your-credit-card",
+          "urlHash": "3b767e2e89fd47f38b0abcaea05f42cc144932e0",
+          "uuid": "3b767e2e-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud",
+          "urlHash": "3dddb0ff6592c6a58315df5d88f8047641876fb7",
+          "uuid": "3dddb0ff-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/why-did-my-credit-score-drop",
+          "urlHash": "3f2da98d1072507390e9ff4927cedda1f218d3cf",
+          "uuid": "3f2da98d-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/chipotle-data-breach-what-you-need-to-know",
+          "urlHash": "44dac029a7f38a5c05d2e0c348f48b91fb86485b",
+          "uuid": "44dac029-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/amazon-scams",
+          "urlHash": "4d5f65055a3e7035346693dd9bd334490b64fa02",
+          "uuid": "4d5f6505-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
+          "urlHash": "4f4b63ae9e80e64b6bd77a32900506515cdd539c",
+          "uuid": "4f4b63ae-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/equifax-data-breach-2017",
+          "urlHash": "4f5f0c66edf05b2a806701fb6d5749ec9fed4be7",
+          "uuid": "4f5f0c66-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/government-benefits",
+          "urlHash": "5134b173cdeeb179007dd7a3c74a0a7dcb2043fc",
+          "uuid": "5134b173-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/elder-scams",
+          "urlHash": "52bbd0d30b5a29de5cb18b68c42cb5eae23595b3",
+          "uuid": "52bbd0d3-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-vs-credit-report",
+          "urlHash": "54324e33b965ffe5a9a860c53237512d766fdc23",
+          "uuid": "54324e33-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
+          "urlHash": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286",
+          "uuid": "54eca55b-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-buy-a-house-with-bad-credit",
+          "urlHash": "55bfbd19bb007ebfbb54017d4767ca5184b43d5c",
+          "uuid": "55bfbd19-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
+          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
+          "uuid": "5674a51f-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-cvv-number",
+          "urlHash": "5841492a2d83dba265d2775c36d18da93eefc6bf",
+          "uuid": "5841492a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/national-public-data-breach",
+          "urlHash": "5a480397afa7757911441aecff6ea8577c31791e",
+          "uuid": "5a480397-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/black-friday-cyber-monday-scams-2023",
+          "urlHash": "5b64a8d7951fc8b1bbc5bd33601a3702cbaae4f5",
+          "uuid": "5b64a8d7-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/att-data-breach-2024",
+          "urlHash": "5f768c145f3658e6cfc4cd8cdc7903c79a0a293a",
+          "uuid": "5f768c14-01-d8bbd91b7b5d87571131920ac613c31908e58af5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/debit-cards-dangerous",
+          "urlHash": "6089b3a086a8f19aa8110821de00d7e5377e78f5",
+          "uuid": "6089b3a0-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-topics",
+          "urlHash": "652e4147d3a3ab11a4307c7a9cb6f698d8b56e89",
+          "uuid": "652e4147-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
+          "urlHash": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df",
+          "uuid": "6544b1b9-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
+          "urlHash": "6e5b1536429658e00081327a7a59c9780281ec35",
+          "uuid": "6e5b1536-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
+          "urlHash": "73551c3f5ba5ef3842b87ab0a39ca143f8052217",
+          "uuid": "73551c3f-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
+          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
+          "uuid": "7527f858-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-check-your-fico-score",
+          "urlHash": "7709efb590ea44bd3f5d4b12b253c3618c3ed0a1",
+          "uuid": "7709efb5-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
+          "urlHash": "7818297c5d1bad8e754b56b4c37c36737b151089",
+          "uuid": "7818297c-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/does-checking-your-credit-score-lower-it",
+          "urlHash": "79be3af7897756292f867f62f097fa7d89b901a1",
+          "uuid": "79be3af7-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
+          "urlHash": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844",
+          "uuid": "7a7df69a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/dropbox-hacked-account-may-compromised",
+          "urlHash": "7cdcad48b0492a386a27e8d428dc327a4f72e9ab",
+          "uuid": "7cdcad48-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
+          "urlHash": "82d37c5caa8a820c72a471a43958619a06fb9f6a",
+          "uuid": "82d37c5c-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fraud-alert-vs-credit-freeze",
+          "urlHash": "87f24b44dd52ccf718f373d758880348ef98d531",
+          "uuid": "87f24b44-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/company-data-breach",
+          "urlHash": "8e9c60f4215d4277de3d9485b807b81761eccfdf",
+          "uuid": "8e9c60f4-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/microsoft-exposed-250-million-customer-records",
+          "urlHash": "8eb1519b5f3d859bda54d7537b1dd2b206bf55ff",
+          "uuid": "8eb1519b-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
+          "urlHash": "8f3c87224e6079f62ad5e93909e3762ed75614ef",
+          "uuid": "8f3c8722-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/facebook-marketplace-scams",
+          "urlHash": "949a0e7a52878116b340a8a00733f4df88bce728",
+          "uuid": "949a0e7a-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/unitedhealth-group-breach",
+          "urlHash": "94fa369882b3a58d3bf2b1ba348b274d28696593",
+          "uuid": "94fa3698-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/home-equity-loan",
+          "urlHash": "9553bdc6f6a4f40732d999f968b82f8788667874",
+          "uuid": "9553bdc6-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-credit-report",
+          "urlHash": "9ffac123e2f32d1178d8888feb4dd702ac6c14a0",
+          "uuid": "9ffac123-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/auto-loan-credit-score",
+          "urlHash": "a0a480f93341291e7a5c3e226789db698ceab23e",
+          "uuid": "a0a480f9-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/financial-scammer-new-tech",
+          "urlHash": "a0b82e76101dd0f9c1decd21720c1929c57313a4",
+          "uuid": "a0b82e76-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/credit-card-topics",
+          "urlHash": "a15b74e22e1f1efd4fca8577b414112d6c965277",
+          "uuid": "a15b74e2-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance",
+          "urlHash": "a22d8af251845ee8a985824fd453380358074dfc",
+          "uuid": "a22d8af2-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-to-do-if-you-lose-a-credit-card",
+          "urlHash": "a3e1dce687d12e0bc5f5ffa80205334033f5644a",
+          "uuid": "a3e1dce6-01-d8bbd91b7b5d87571131920ac613c31908e58af5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/how-do-people-steal-credit-card-numbers",
+          "urlHash": "a63d7575b72e510edfc065e55aaba69647a50425",
+          "uuid": "a63d7575-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/jeremy-coppock",
+          "urlHash": "a860c3d9f0994790a23e668a0638149608040206",
+          "uuid": "a860c3d9-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
+          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
+          "uuid": "a91f084a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
+          "urlHash": "aae1ce829ed739a2482db10664cfbd588434d0bd",
+          "uuid": "aae1ce82-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-credit-score-do-you-start-with",
+          "urlHash": "acca3d6ec6fa766db0165faedf9fbfef149b52be",
+          "uuid": "acca3d6e-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-long-does-it-take-to-rebuild-credit",
+          "urlHash": "ad68d0b7b1b7f5137920012a5fc4865c0e8a009e",
+          "uuid": "ad68d0b7-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
+          "urlHash": "b00e2091e0850d0eef291948bb07c431af1a63b7",
+          "uuid": "b00e2091-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/brushing-scam",
+          "urlHash": "b5a35fbcc5af0fb3be943cf3715e7ba0fc18aeba",
+          "uuid": "b5a35fbc-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-lock-credit",
+          "urlHash": "bbc99de14b815ca679de5d81468c579bc39bc73b",
+          "uuid": "bbc99de1-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/employment-related-fraud",
+          "urlHash": "bc1afb1b29b55cf44d3f9d819c485a930bd746ad",
+          "uuid": "bc1afb1b-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/mark-birchall",
+          "urlHash": "bd06dc0ab5111ff1752d9d2f253ecea46a4f2a75",
+          "uuid": "bd06dc0a-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/data-leak-exposes-millions-of-bank-loan-and-mortgage-documents",
+          "urlHash": "c8f82a58e631579f0bb5140cbf243c6af2f4f721",
+          "uuid": "c8f82a58-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
+          "urlHash": "c98e8af5c3cda2eaadda50b31c7326df643da278",
+          "uuid": "c98e8af5-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
+          "urlHash": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec",
+          "uuid": "ca7b6d42-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
+          "urlHash": "caa4123ca0faa7314914be3341ec865706c40c09",
+          "uuid": "caa4123c-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-unfreeze-credit",
+          "urlHash": "cd850d575766f30d57be3f5291da8cd9da034682",
+          "uuid": "cd850d57-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/crissy-joshua",
+          "urlHash": "cf4cbd9b51a1bb0496106e3481da632649dbb3f5",
+          "uuid": "cf4cbd9b-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/what-is-a-data-breach",
+          "urlHash": "d1568efad8a43c14939366a1e1006531c7ab4793",
+          "uuid": "d1568efa-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
+          "urlHash": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc",
+          "uuid": "d3e09a7b-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/uber-data-breach-affects-57-million-rider-and-driver-accounts",
+          "urlHash": "d64e683fda6c53dbb628853c697cb320fbe07fe1",
+          "uuid": "d64e683f-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-reports-topics",
+          "urlHash": "de625c71fdd98a4133b3388007848476e45e12e8",
+          "uuid": "de625c71-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-card-topics",
+          "urlHash": "e7450461c99ba1ff9c11e8afcee6632e963ff2f7",
+          "uuid": "e7450461-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/how-to-check-if-youre-affected-by-the-equifax-data-breach",
+          "urlHash": "e8a5789f897af055597a2b98a0d44ab3840f1ed2",
+          "uuid": "e8a5789f-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/fix-your-credit-score",
+          "urlHash": "f161d975823a1b5c988b6f8c0507eef4a311bf59",
+          "uuid": "f161d975-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/what-are-the-3-credit-bureaus",
+          "urlHash": "f4ff522adbbbbd0090b3b0acd94888e307a92413",
+          "uuid": "f4ff522a-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/tips-topics",
+          "urlHash": "f5ab0054f3a7637f19039174358788609f01982b",
+          "uuid": "f5ab0054-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/ellie-farrier",
+          "urlHash": "fb6a73723545b96ebc2dd29c37b75f54c10f70ab",
+          "uuid": "fb6a7372-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/oliver-buxton",
+          "urlHash": "fc3a18d21f756fd44db06d4726f4784f632b1deb",
+          "uuid": "fc3a18d2-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/beware-of-equifax-breach-scams",
+          "urlHash": "fd92fc5c8283d8a450c864324d78e18911d09a72",
+          "uuid": "fd92fc5c-01-170c08ceae9b9768835b69150450be0216bfa421",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-update",
+          "urlHash": "fe94a649e3faa5db9e023153800aeaaa9ffb0fa2",
+          "uuid": "fe94a649-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
       "source": "Cards",
-      "target": "Cards (cards17)",
-      "key": "cards17",
+      "target": "Cards (cards18)",
+      "key": "cards18",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/authors/jeremy-coppock",
@@ -4501,10 +5062,10 @@
     },
     {
       "name": "header",
-      "cluster": 18,
+      "cluster": 19,
       "source": "Header",
       "target": "Header",
-      "key": "header18",
+      "key": "header19",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
@@ -5109,56 +5670,20 @@
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 19,
-      "source": "Columns",
-      "target": "Columns (columns19)",
-      "key": "columns19",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-20-9eb62c68259c560cdbf5fae5d57d9b20f9f70c3d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[16]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-21-25d432296e2ca5f617411a3b617d30eb05de761e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[16]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-27-e1ac3fc835d79242d2bb8c22095f495849d5f935",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[22]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-21-25d432296e2ca5f617411a3b617d30eb05de761e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[16]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
+      "name": "unknown",
       "cluster": 20,
-      "source": "Hero",
-      "target": "Hero (hero20)",
-      "key": "hero20",
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-03-f11406429a05034c7af8f70acdeb56f17864dff3",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
+          "url": "https://lifelock.norton.com/learn/fraud",
+          "urlHash": "3dddb0ff6592c6a58315df5d88f8047641876fb7",
+          "uuid": "3dddb0ff-03-b08da5c86506cade520e8d926a557fe74b5bcc7c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-03-f11406429a05034c7af8f70acdeb56f17864dff3",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
+          "url": "https://lifelock.norton.com/learn/credit-finance",
+          "urlHash": "a22d8af251845ee8a985824fd453380358074dfc",
+          "uuid": "a22d8af2-03-b08da5c86506cade520e8d926a557fe74b5bcc7c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
         }
       ]
     },
@@ -5183,48 +5708,69 @@
       "key": "columns22",
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
-          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
-          "uuid": "4b6be796-20-80407d86a9f12089c64384ec431708e3f9d65493",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 23,
-      "source": "Columns",
-      "target": "Columns (columns23)",
-      "key": "columns23",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/microsoft-exposed-250-million-customer-records",
-          "urlHash": "8eb1519b5f3d859bda54d7537b1dd2b206bf55ff",
-          "uuid": "8eb1519b-26-3623cf84327a7bb3f2d4dd0b3db7cbc5a29d273e",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[24]",
-          "section": "section-2"
+          "url": "https://lifelock.norton.com/learn/authors/jeremy-coppock",
+          "urlHash": "a860c3d9f0994790a23e668a0638149608040206",
+          "uuid": "a860c3d9-03-d846709872f5505d72872a9aa430a1d6ebe20593",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
         },
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/beware-of-equifax-breach-scams",
-          "urlHash": "fd92fc5c8283d8a450c864324d78e18911d09a72",
-          "uuid": "fd92fc5c-12-f69cedefea1aa3ad892198dad340a6a54b0b6c1c",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[7]",
-          "section": "section-2"
+          "url": "https://lifelock.norton.com/learn/authors/mark-birchall",
+          "urlHash": "bd06dc0ab5111ff1752d9d2f253ecea46a4f2a75",
+          "uuid": "bd06dc0a-03-d846709872f5505d72872a9aa430a1d6ebe20593",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/crissy-joshua",
+          "urlHash": "cf4cbd9b51a1bb0496106e3481da632649dbb3f5",
+          "uuid": "cf4cbd9b-03-d846709872f5505d72872a9aa430a1d6ebe20593",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/ellie-farrier",
+          "urlHash": "fb6a73723545b96ebc2dd29c37b75f54c10f70ab",
+          "uuid": "fb6a7372-03-d846709872f5505d72872a9aa430a1d6ebe20593",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/authors/oliver-buxton",
+          "urlHash": "fc3a18d21f756fd44db06d4726f4784f632b1deb",
+          "uuid": "fc3a18d2-03-d846709872f5505d72872a9aa430a1d6ebe20593",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
         }
       ]
     },
     {
       "name": "Accordion",
-      "cluster": 24,
+      "cluster": 23,
       "source": "Accordion",
-      "target": "Accordion (accordion24)",
-      "key": "accordion24",
+      "target": "Accordion (accordion23)",
+      "key": "accordion23",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
           "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
           "uuid": "4b6be796-18-66d4877f8de8c1e7e716ec17af27cf1c5ce9b8a3",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[17]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns",
+      "target": "Columns (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
+          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
+          "uuid": "4b6be796-20-80407d86a9f12089c64384ec431708e3f9d65493",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]"
         }
       ]
     },
@@ -5263,10 +5809,22 @@
       "key": "columns26",
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
-          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
-          "uuid": "4b6be796-01-92952de972d48eb6b6923f6eca902be643a08f58",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
+          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
+          "uuid": "939cd728-26-8c053581e4d9cb863047ccf010f52981bfa58f06",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[21]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-36-81591a5e2977d8903476dedd75022627622f3d8b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[29]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-28-8942ac88837b487d5edaa3b022425e86d16af487",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[21]"
         }
       ]
     },
@@ -5276,6 +5834,33 @@
       "source": "Columns",
       "target": "Columns (columns27)",
       "key": "columns27",
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn/data-breaches/breach-detection",
+          "urlHash": "4b6be7962b160b08009380b7d74d9676ee5741dd",
+          "uuid": "4b6be796-01-92952de972d48eb6b6923f6eca902be643a08f58",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 28,
+      "instances": [
+        {
+          "url": "https://lifelock.norton.com/learn",
+          "urlHash": "ae1827e80e2ee63a26bd621cc5855fe0449ad616",
+          "uuid": "ae1827e8-06-d8bbd91b7b5d87571131920ac613c31908e58af5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
@@ -5880,602 +6465,11 @@
       ]
     },
     {
-      "name": "unknown",
-      "cluster": 28,
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn",
-          "urlHash": "ae1827e80e2ee63a26bd621cc5855fe0449ad616",
-          "uuid": "ae1827e8-06-d8bbd91b7b5d87571131920ac613c31908e58af5",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Tabs",
-      "cluster": 29,
-      "source": "Tabs",
-      "target": "Tabs (tabs29)",
-      "key": "tabs29",
-      "instances": [
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-do-credit-scores-work",
-          "urlHash": "00c54752842d091cc12b5b44cda266361f8367a6",
-          "uuid": "00c54752-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/chase-check-fraud",
-          "urlHash": "0184921019d9547856311e301f5ae517f64170ca",
-          "uuid": "01849210-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
-          "urlHash": "0771042c089f1577a25ba98c84a975372d657960",
-          "uuid": "0771042c-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/history-of-data-breaches",
-          "urlHash": "0a4dec35c103de2e3531217d7ab0dd6e88efe41a",
-          "uuid": "0a4dec35-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/bank-scams",
-          "urlHash": "0a706504543b704191af61f53527a69606b15794",
-          "uuid": "0a706504-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-often-should-you-check-your-credit-report",
-          "urlHash": "0ab7277af695a17d27d57a2d2905def216294d8e",
-          "uuid": "0ab7277a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freezes-vs-credit-locks",
-          "urlHash": "0ed6b5319418282a83152feac3fc67fa65370f41",
-          "uuid": "0ed6b531-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-scores",
-          "urlHash": "1206ceed0eabfb069c95dd1249d7ff09bfbdba33",
-          "uuid": "1206ceed-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/geek-squad-scam",
-          "urlHash": "143d45bb162028233980d992504821af62a110ec",
-          "uuid": "143d45bb-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-a-pre-approved-credit-card",
-          "urlHash": "157eb1e266c5ba9870147793f05c582012ecdbdd",
-          "uuid": "157eb1e2-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/home-title-theft",
-          "urlHash": "17ac6124c27d396d765a84aa8d5d415259bb3eed",
-          "uuid": "17ac6124-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fico-score-vs-credit-score",
-          "urlHash": "1af1fb769f1540c66c11ef8c61b37e7868ef484e",
-          "uuid": "1af1fb76-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/back-to-school-scams",
-          "urlHash": "1cd0ce4c0106f6f7a6e1e0513f22277da7694393",
-          "uuid": "1cd0ce4c-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/hinge-scams",
-          "urlHash": "1e287b79f009411a1abfc6bc5cd204b1e9850c32",
-          "uuid": "1e287b79-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-check-for-employment",
-          "urlHash": "1edb7b32adeed7f16af12c64765eca50154f2a6a",
-          "uuid": "1edb7b32-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-bankruptcies-removed-from-credit-report",
-          "urlHash": "1ef161e8b366e59588e7c94110cf8dcc2f5f3f51",
-          "uuid": "1ef161e8-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-pass-a-rental-credit-check",
-          "urlHash": "31befdef22a61181259c19ac7243298ac343d264",
-          "uuid": "31befdef-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches",
-          "urlHash": "3618ae533daf909c43776036b206f32575c87ce7",
-          "uuid": "3618ae53-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-rebuild-your-credit-after-identity-theft",
-          "urlHash": "37b2e12eb3bdd60b60dfb50fc975d6ef06c5b80f",
-          "uuid": "37b2e12e-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/cash-app-scams",
-          "urlHash": "39fcf6048a7bd2005e9b232a402bab3813ffc621",
-          "uuid": "39fcf604-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/protect-your-credit-card",
-          "urlHash": "3b767e2e89fd47f38b0abcaea05f42cc144932e0",
-          "uuid": "3b767e2e-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud",
-          "urlHash": "3dddb0ff6592c6a58315df5d88f8047641876fb7",
-          "uuid": "3dddb0ff-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/why-did-my-credit-score-drop",
-          "urlHash": "3f2da98d1072507390e9ff4927cedda1f218d3cf",
-          "uuid": "3f2da98d-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/chipotle-data-breach-what-you-need-to-know",
-          "urlHash": "44dac029a7f38a5c05d2e0c348f48b91fb86485b",
-          "uuid": "44dac029-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/amazon-scams",
-          "urlHash": "4d5f65055a3e7035346693dd9bd334490b64fa02",
-          "uuid": "4d5f6505-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/when-to-pay-credit-card",
-          "urlHash": "4f4b63ae9e80e64b6bd77a32900506515cdd539c",
-          "uuid": "4f4b63ae-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/equifax-data-breach-2017",
-          "urlHash": "4f5f0c66edf05b2a806701fb6d5749ec9fed4be7",
-          "uuid": "4f5f0c66-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/government-benefits",
-          "urlHash": "5134b173cdeeb179007dd7a3c74a0a7dcb2043fc",
-          "uuid": "5134b173-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/elder-scams",
-          "urlHash": "52bbd0d30b5a29de5cb18b68c42cb5eae23595b3",
-          "uuid": "52bbd0d3-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-vs-credit-report",
-          "urlHash": "54324e33b965ffe5a9a860c53237512d766fdc23",
-          "uuid": "54324e33-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-get-an-apartment-with-bad-credit",
-          "urlHash": "54eca55ba21b3b9662cc4e5b576b0d570c9ae286",
-          "uuid": "54eca55b-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-buy-a-house-with-bad-credit",
-          "urlHash": "55bfbd19bb007ebfbb54017d4767ca5184b43d5c",
-          "uuid": "55bfbd19-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/fake-bank-text-messages",
-          "urlHash": "5674a51f4ed40e6d7d94577ad6a2fee6ec3fa2fa",
-          "uuid": "5674a51f-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-cvv-number",
-          "urlHash": "5841492a2d83dba265d2775c36d18da93eefc6bf",
-          "uuid": "5841492a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/national-public-data-breach",
-          "urlHash": "5a480397afa7757911441aecff6ea8577c31791e",
-          "uuid": "5a480397-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/black-friday-cyber-monday-scams-2023",
-          "urlHash": "5b64a8d7951fc8b1bbc5bd33601a3702cbaae4f5",
-          "uuid": "5b64a8d7-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/att-data-breach-2024",
-          "urlHash": "5f768c145f3658e6cfc4cd8cdc7903c79a0a293a",
-          "uuid": "5f768c14-01-d8bbd91b7b5d87571131920ac613c31908e58af5",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/debit-cards-dangerous",
-          "urlHash": "6089b3a086a8f19aa8110821de00d7e5377e78f5",
-          "uuid": "6089b3a0-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-topics",
-          "urlHash": "652e4147d3a3ab11a4307c7a9cb6f698d8b56e89",
-          "uuid": "652e4147-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-remove-hard-inquiries",
-          "urlHash": "6544b1b953d6fc517353bbbcd13b122eb7a8c0df",
-          "uuid": "6544b1b9-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-requesting-a-credit-increase-hurt",
-          "urlHash": "6e5b1536429658e00081327a7a59c9780281ec35",
-          "uuid": "6e5b1536-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/apple-pay-scams",
-          "urlHash": "73551c3f5ba5ef3842b87ab0a39ca143f8052217",
-          "uuid": "73551c3f-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-scams",
-          "urlHash": "7527f858f17635e85a8dc74d03fd2e5c54d03fb5",
-          "uuid": "7527f858-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-check-your-fico-score",
-          "urlHash": "7709efb590ea44bd3f5d4b12b253c3618c3ed0a1",
-          "uuid": "7709efb5-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-closing-a-credit-card-hurt-your-credit",
-          "urlHash": "7818297c5d1bad8e754b56b4c37c36737b151089",
-          "uuid": "7818297c-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/does-checking-your-credit-score-lower-it",
-          "urlHash": "79be3af7897756292f867f62f097fa7d89b901a1",
-          "uuid": "79be3af7-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/soft-vs-hard-credit-check",
-          "urlHash": "7a7df69a5e453dd2420dc3e1ec6c73ae2d79f844",
-          "uuid": "7a7df69a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/dropbox-hacked-account-may-compromised",
-          "urlHash": "7cdcad48b0492a386a27e8d428dc327a4f72e9ab",
-          "uuid": "7cdcad48-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/steps-to-take-right-after-a-data-breach",
-          "urlHash": "82d37c5caa8a820c72a471a43958619a06fb9f6a",
-          "uuid": "82d37c5c-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fraud-alert-vs-credit-freeze",
-          "urlHash": "87f24b44dd52ccf718f373d758880348ef98d531",
-          "uuid": "87f24b44-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/company-data-breach",
-          "urlHash": "8e9c60f4215d4277de3d9485b807b81761eccfdf",
-          "uuid": "8e9c60f4-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/microsoft-exposed-250-million-customer-records",
-          "urlHash": "8eb1519b5f3d859bda54d7537b1dd2b206bf55ff",
-          "uuid": "8eb1519b-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-freeze",
-          "urlHash": "8f3c87224e6079f62ad5e93909e3762ed75614ef",
-          "uuid": "8f3c8722-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/free-credit-report-score-check",
-          "urlHash": "939cd72868255488abe21643789558b2c96d22b0",
-          "uuid": "939cd728-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/facebook-marketplace-scams",
-          "urlHash": "949a0e7a52878116b340a8a00733f4df88bce728",
-          "uuid": "949a0e7a-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/unitedhealth-group-breach",
-          "urlHash": "94fa369882b3a58d3bf2b1ba348b274d28696593",
-          "uuid": "94fa3698-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/home-equity-loan",
-          "urlHash": "9553bdc6f6a4f40732d999f968b82f8788667874",
-          "uuid": "9553bdc6-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-is-credit-report",
-          "urlHash": "9ffac123e2f32d1178d8888feb4dd702ac6c14a0",
-          "uuid": "9ffac123-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/auto-loan-credit-score",
-          "urlHash": "a0a480f93341291e7a5c3e226789db698ceab23e",
-          "uuid": "a0a480f9-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/financial-scammer-new-tech",
-          "urlHash": "a0b82e76101dd0f9c1decd21720c1929c57313a4",
-          "uuid": "a0b82e76-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/credit-card-topics",
-          "urlHash": "a15b74e22e1f1efd4fca8577b414112d6c965277",
-          "uuid": "a15b74e2-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance",
-          "urlHash": "a22d8af251845ee8a985824fd453380358074dfc",
-          "uuid": "a22d8af2-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
-          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
-          "uuid": "a37fdbae-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-to-do-if-you-lose-a-credit-card",
-          "urlHash": "a3e1dce687d12e0bc5f5ffa80205334033f5644a",
-          "uuid": "a3e1dce6-01-d8bbd91b7b5d87571131920ac613c31908e58af5",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/how-do-people-steal-credit-card-numbers",
-          "urlHash": "a63d7575b72e510edfc065e55aaba69647a50425",
-          "uuid": "a63d7575-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/jeremy-coppock",
-          "urlHash": "a860c3d9f0994790a23e668a0638149608040206",
-          "uuid": "a860c3d9-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
-          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
-          "uuid": "a8b4beba-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/airbnb-scams",
-          "urlHash": "a91f084af190f3b9de81a6d23fd8925e5691e8b1",
-          "uuid": "a91f084a-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-improve-credit-score",
-          "urlHash": "aae1ce829ed739a2482db10664cfbd588434d0bd",
-          "uuid": "aae1ce82-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-credit-score-do-you-start-with",
-          "urlHash": "acca3d6ec6fa766db0165faedf9fbfef149b52be",
-          "uuid": "acca3d6e-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-long-does-it-take-to-rebuild-credit",
-          "urlHash": "ad68d0b7b1b7f5137920012a5fc4865c0e8a009e",
-          "uuid": "ad68d0b7-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/do-banks-refund-scammed-money",
-          "urlHash": "b00e2091e0850d0eef291948bb07c431af1a63b7",
-          "uuid": "b00e2091-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/brushing-scam",
-          "urlHash": "b5a35fbcc5af0fb3be943cf3715e7ba0fc18aeba",
-          "uuid": "b5a35fbc-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-lock-credit",
-          "urlHash": "bbc99de14b815ca679de5d81468c579bc39bc73b",
-          "uuid": "bbc99de1-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/employment-related-fraud",
-          "urlHash": "bc1afb1b29b55cf44d3f9d819c485a930bd746ad",
-          "uuid": "bc1afb1b-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/mark-birchall",
-          "urlHash": "bd06dc0ab5111ff1752d9d2f253ecea46a4f2a75",
-          "uuid": "bd06dc0a-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/data-leak-exposes-millions-of-bank-loan-and-mortgage-documents",
-          "urlHash": "c8f82a58e631579f0bb5140cbf243c6af2f4f721",
-          "uuid": "c8f82a58-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-credit-card-charge",
-          "urlHash": "c98e8af5c3cda2eaadda50b31c7326df643da278",
-          "uuid": "c98e8af5-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/etsy-scams",
-          "urlHash": "ca7b6d42f4b1e3205e61aebddaf32ce3a31e66ec",
-          "uuid": "ca7b6d42-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/fraud/account-services-scam-call",
-          "urlHash": "caa4123ca0faa7314914be3341ec865706c40c09",
-          "uuid": "caa4123c-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-unfreeze-credit",
-          "urlHash": "cd850d575766f30d57be3f5291da8cd9da034682",
-          "uuid": "cd850d57-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/crissy-joshua",
-          "urlHash": "cf4cbd9b51a1bb0496106e3481da632649dbb3f5",
-          "uuid": "cf4cbd9b-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/what-is-a-data-breach",
-          "urlHash": "d1568efad8a43c14939366a1e1006531c7ab4793",
-          "uuid": "d1568efa-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-dispute-a-credit-report",
-          "urlHash": "d3e09a7b595cf0b6e3157d0100549c34dbf549dc",
-          "uuid": "d3e09a7b-01-5b796e376c9f30f8407e6f0203af02c788f7f3ab",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/uber-data-breach-affects-57-million-rider-and-driver-accounts",
-          "urlHash": "d64e683fda6c53dbb628853c697cb320fbe07fe1",
-          "uuid": "d64e683f-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-reports-topics",
-          "urlHash": "de625c71fdd98a4133b3388007848476e45e12e8",
-          "uuid": "de625c71-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-card-topics",
-          "urlHash": "e7450461c99ba1ff9c11e8afcee6632e963ff2f7",
-          "uuid": "e7450461-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/how-to-check-if-youre-affected-by-the-equifax-data-breach",
-          "urlHash": "e8a5789f897af055597a2b98a0d44ab3840f1ed2",
-          "uuid": "e8a5789f-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/fix-your-credit-score",
-          "urlHash": "f161d975823a1b5c988b6f8c0507eef4a311bf59",
-          "uuid": "f161d975-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/what-are-the-3-credit-bureaus",
-          "urlHash": "f4ff522adbbbbd0090b3b0acd94888e307a92413",
-          "uuid": "f4ff522a-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/tips-topics",
-          "urlHash": "f5ab0054f3a7637f19039174358788609f01982b",
-          "uuid": "f5ab0054-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/ellie-farrier",
-          "urlHash": "fb6a73723545b96ebc2dd29c37b75f54c10f70ab",
-          "uuid": "fb6a7372-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/authors/oliver-buxton",
-          "urlHash": "fc3a18d21f756fd44db06d4726f4784f632b1deb",
-          "uuid": "fc3a18d2-01-50ef1e9f61f93da6761d31bf65f5250201869b47",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/data-breaches/beware-of-equifax-breach-scams",
-          "urlHash": "fd92fc5c8283d8a450c864324d78e18911d09a72",
-          "uuid": "fd92fc5c-01-170c08ceae9b9768835b69150450be0216bfa421",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-update",
-          "urlHash": "fe94a649e3faa5db9e023153800aeaaa9ffb0fa2",
-          "uuid": "fe94a649-01-b653ddeb8845f6f9e6358e5aec04a8add618edd2",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 30,
-      "source": "Cards",
-      "target": "Cards (cards30)",
-      "key": "cards30",
+      "source": "Columns",
+      "target": "Columns (columns30)",
+      "key": "columns30",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/credit-score-topics",
@@ -6517,8 +6511,11 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Cards (no images)",
       "cluster": 33,
+      "source": "Cards",
+      "target": "Cards",
+      "key": "cardsNoImages33",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/what-affects-your-credit-score",
@@ -21145,16 +21142,22 @@
       "cluster": 36,
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/fraud",
-          "urlHash": "3dddb0ff6592c6a58315df5d88f8047641876fb7",
-          "uuid": "3dddb0ff-03-b08da5c86506cade520e8d926a557fe74b5bcc7c",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-place-a-fraud-alert",
+          "urlHash": "07f123a7f84076e70627fe8c67cbb1062e52d3b7",
+          "uuid": "07f123a7-01-92952de972d48eb6b6923f6eca902be643a08f58",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance",
-          "urlHash": "a22d8af251845ee8a985824fd453380358074dfc",
-          "uuid": "a22d8af2-03-b08da5c86506cade520e8d926a557fe74b5bcc7c",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/how-many-credit-cards-should-you-have",
+          "urlHash": "a2b3579d6857b1509ca21a00cbfab12164dc15fd",
+          "uuid": "a2b3579d-01-92952de972d48eb6b6923f6eca902be643a08f58",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://lifelock.norton.com/learn/credit-finance/multiple-credit-cards",
+          "urlHash": "c4a394c5024a4670b745a30477ba4a0d21d4becb",
+          "uuid": "c4a394c5-01-cb3fd08ce5a031654bae74480df424ad862ec0b6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -21204,35 +21207,32 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Hero",
       "cluster": 39,
+      "source": "Hero",
+      "target": "Hero (hero39)",
+      "key": "hero39",
       "instances": [
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-to-place-a-fraud-alert",
-          "urlHash": "07f123a7f84076e70627fe8c67cbb1062e52d3b7",
-          "uuid": "07f123a7-01-92952de972d48eb6b6923f6eca902be643a08f58",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/dispute-credit-report",
+          "urlHash": "a37fdbae7fd8c464052e1057cb153e4c301c7e57",
+          "uuid": "a37fdbae-03-f11406429a05034c7af8f70acdeb56f17864dff3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
         },
         {
-          "url": "https://lifelock.norton.com/learn/credit-finance/how-many-credit-cards-should-you-have",
-          "urlHash": "a2b3579d6857b1509ca21a00cbfab12164dc15fd",
-          "uuid": "a2b3579d-01-92952de972d48eb6b6923f6eca902be643a08f58",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://lifelock.norton.com/learn/credit-finance/multiple-credit-cards",
-          "urlHash": "c4a394c5024a4670b745a30477ba4a0d21d4becb",
-          "uuid": "c4a394c5-01-cb3fd08ce5a031654bae74480df424ad862ec0b6",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+          "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",
+          "urlHash": "a8b4beba5bfc6265e965aa6f43a2bbcf04955688",
+          "uuid": "a8b4beba-03-f11406429a05034c7af8f70acdeb56f17864dff3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
         }
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 40,
-      "source": "Cards",
-      "target": "Cards (cards40)",
-      "key": "cards40",
+      "source": "Columns",
+      "target": "Columns (columns40)",
+      "key": "columns40",
       "instances": [
         {
           "url": "https://lifelock.norton.com/learn/credit-finance/credit-monitoring",

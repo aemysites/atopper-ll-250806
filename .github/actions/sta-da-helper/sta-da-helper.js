@@ -15,6 +15,9 @@ import { spawn } from 'child_process';
 import path from 'path';
 import fs from 'fs';
 
+// Import the shared IMS token helper
+import { getAccessTokenWithFallback } from './ims-token-helper.js';
+
 /**
  * Get the org and site from the target URL.
  * @param {string} target - The target URL.
@@ -60,16 +63,20 @@ async function uploadToDa(contentPath, target, token, skipAssets) {
       '--site', site,
       '--da-folder', `${contentPath}/da`,
       '--asset-list', `${contentPath}/asset-list.json`,
-      '--token', token,
     ];
+
+    // Only pass token if available
+    if (token) {
+      args.push('--token', token);
+    }
 
     if (skipAssets) {
       args.push('--skip-assets');
     }
 
     core.info('Running command:');
-    const argsWithoutToken = args.filter((arg) => arg !== token);
-    core.info(`${JSON.stringify(argsWithoutToken, null, 2)}`);
+    const argsSafe = token ? args.filter((arg) => arg !== token) : args;
+    core.info(`${JSON.stringify(argsSafe, null, 2)}`);
 
     const child = spawn('npx', args, {
       stdio: ['inherit', 'inherit', 'pipe'], // Pipe stderr to capture errors
@@ -150,14 +157,14 @@ export async function run() {
     const contentPath = core.getInput('content_path');
 
     // aem-import-helper can skip assets if needed
-    const skipAssets = core.getInput('skip_assets') || false;
-
-    // the token to use to upload to DA
-    const token = process.env.IMS_TOKEN;
+    const skipAssets = core.getBooleanInput('skip_assets');
 
     try {
+      // Get access token with fallback logic
+      const accessToken = await getAccessTokenWithFallback();
+
       checkForRequiredContent(contentPath);
-      const files = await uploadToDa(contentPath, target, token, skipAssets);
+      const files = await uploadToDa(contentPath, target, accessToken, skipAssets);
       core.setOutput('paths', files);
     } catch (error) {
       core.error(`DA Error: ${error.message}`);

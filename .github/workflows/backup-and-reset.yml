@@ -106,31 +106,6 @@ jobs:
           mountpoint: ${{ inputs.root_mountpoint }}
           mountpoint_type: 'sharepoint'
 
-      - name: Create backup branch
-        id: backup
-        run: |
-          # Get current date and time in YYYY-MM-DD-HH-MM format
-          TIMESTAMP=$(date +%Y-%m-%d-%H-%M)
-          # Use provided branch name or default to backup-{timestamp}
-          BRANCH_NAME="${INPUT_BACKUP_BRANCH_NAME:-backup-$TIMESTAMP}"
-          # Create and push the backup branch
-          git checkout -b $BRANCH_NAME
-          git push origin $BRANCH_NAME
-          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
-
-      - name: Ensure RESET_COMMIT_SHA secret is set
-        run: |
-          if [ -z "${{ secrets.RESET_COMMIT_SHA }}" ]; then
-            echo "❌ The secret RESET_COMMIT_SHA is not set in your repository."
-            exit 1
-          fi
-
-      - name: Reset main to specified commit
-        run: |
-          git checkout main
-          git reset --hard ${{ secrets.RESET_COMMIT_SHA }}
-          git push origin main --force
-
       - name: Move SharePoint content to backup folder
         id: move-to-backup
         uses: ./.github/actions/sta-sp-move-to-backup
@@ -139,3 +114,71 @@ jobs:
           host: ${{ fromJSON(steps.mountpoint_data.outputs.data).host }}
           site_path: ${{ fromJSON(steps.mountpoint_data.outputs.data).site }}
           folder_path: ${{ fromJSON(steps.mountpoint_data.outputs.data).path }}
+
+      - name: Create backup branch
+        id: backup
+        run: |
+          # Get current date and time in YYYY-MM-DD-HH-MM format
+          TIMESTAMP=$(date +%Y-%m-%d-%H-%M)
+          # Use provided branch name or default to backup-{timestamp}
+          BRANCH_NAME="${BACKUP_BRANCH_NAME:-backup-$TIMESTAMP}"
+          # Create and push the backup branch
+          git checkout -b $BRANCH_NAME
+          git push origin $BRANCH_NAME
+          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
+        env:
+          BACKUP_BRANCH_NAME: ${{ inputs.backup_branch_name }}
+
+      - name: Determine reset commit
+        id: determine_reset_commit
+        run: |
+          # Find merge commit from aemysites/issue-1 by aem-aemy
+          target=$(git log origin/main --grep="from aemysites/issue-1$" --author="aem-aemy" -n 1 --pretty=format:%H || true)
+          
+          # Check if we found the commit
+          if [ -z "$target" ]; then
+            echo "⚠️ No commit found ending with 'from aemysites/issue-1'"
+            
+            # Check for fallback commit hash from repository variable
+            fallback_commit="${{ vars.FALLBACK_RESET_COMMIT }}"
+            if [ -n "$fallback_commit" ]; then
+              echo "🔄 Using fallback commit from repository variable: $fallback_commit"
+              
+              # Verify the fallback commit exists
+              if git cat-file -e "$fallback_commit" 2>/dev/null; then
+                target="$fallback_commit"
+                echo "✅ Fallback commit verified and will be used"
+              else
+                echo "❌ Fallback commit '$fallback_commit' does not exist in repository"
+                exit 1
+              fi
+            else
+              echo "❌ No fallback commit hash found in repository variable 'FALLBACK_RESET_COMMIT'"
+              echo "Please set the repository variable 'FALLBACK_RESET_COMMIT' with a valid commit hash"
+              exit 1
+            fi
+          fi
+          
+          echo "Reset target: $target"
+          echo "Commit message: $(git log -1 --pretty=%s "$target")"
+          echo "reset_commit_sha=$target" >> $GITHUB_OUTPUT
+
+      - name: Reset main to determined commit
+        run: |
+          git checkout main
+          git reset --hard ${{ steps.determine_reset_commit.outputs.reset_commit_sha }}
+          git push origin main --force
+
+      - name: Create AEMY Installation issue
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.WORKFLOW_PAT }}
+          script: |
+            const { data: issue } = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'AEMY Installation',
+              body: 'Setup the workflows',
+              labels: ['aemy-go', 'aemy-help', 'aemy-merge']
+            });
+            console.log(`Created issue #${issue.number}: ${issue.html_url}`);
